@@ -4,11 +4,12 @@
 - 🌱 Trabalhando como Programadora Trainee
 - 😄 Pronouns: ela/dela
 
-<div align="center">
-  <a href="https://github.com/Erikakeisy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikakeisy&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikakeisy&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+<a href = "https://github.com/Erikakeisy">
+  <img align = "center" width="420" src ="https://github-readme-stats.vercel.app/api?username=erikakeisy&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+</a>
+<a href = "https://github.com/yasminwz/github-readme-stats">
+    <img align = "center" width="430" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=erikakeisy&layout=compact&langs_count=7&theme=cobalt&show_icons=true&include_all_commits=true"/>
+</a>
   <div style="display: inline_block"><br>
   <img align="center" alt="Erika-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Erika-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
