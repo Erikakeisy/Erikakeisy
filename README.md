@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou Estudante de Desenvolvimento de Sistemas
 - 🌱 Trabalhando como Programadora Trainee
-- 😄 Pronouns: ela/dela
+
 
 <a href = "https://github.com/Erikakeisy">
   <img align = "center" width="420" src ="https://github-readme-stats.vercel.app/api?username=erikakeisy&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
