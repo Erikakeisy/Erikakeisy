@@ -1,7 +1,7 @@
 ### Hello World!!! Eu sou a Erika Keisy  👋
 
 - 🔭 Atualmente sou Estudante de Desenvolvimento de Sistemas
-- 🌱 Trabalhando como Programadora Trainee
+- 🌱 Trabalhando como Desenvolvedora Junior
 
 
 <a href = "https://github.com/Erikakeisy">
